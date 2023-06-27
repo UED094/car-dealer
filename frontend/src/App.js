@@ -9,7 +9,6 @@ import SignUp from "./pages/SignUp";
 function App() {
   return (
     <div>
-      <h1> Hello from react!</h1>
         <SignIn />
         <SignUp />
     </div>
